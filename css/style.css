@@ -1,0 +1,116 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    font-family: segoeui,serif;
+    font-size: 4.25em;
+    height: 81px
+  }
+  .style0 {
+    color: rgba(0,188,44,.6000000238418579);
+    text-decoration: underline solid rgba(0,188,44,.36000002861023006);
+    margin-left: 140px;
+    margin-top: 171px
+  }
+  .style1,
+  .style2 {
+    color: #00bc2c;
+    margin-left: 110px;
+    margin-top: 1px
+  }
+  .style2 {
+    margin-top: 141px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    font-family: segoeui,serif;
+    font-size: 8.704em;
+    height: 166px
+  }
+  .style0 {
+    color: rgba(0,188,44,.6000000238418579);
+    text-decoration: underline solid rgba(0,188,44,.36000002861023006);
+    margin-left: 287px;
+    margin-top: 350px
+  }
+  .style1,
+  .style2 {
+    color: #00bc2c;
+    margin-left: 225px;
+    margin-top: 2px
+  }
+  .style2 {
+    margin-top: 289px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    font-family: segoeui,serif;
+    font-size: 10.426666666666666em;
+    height: 199px
+  }
+  .style0 {
+    color: rgba(0,188,44,.6000000238418579);
+    text-decoration: underline solid rgba(0,188,44,.36000002861023006);
+    margin-left: 343px;
+    margin-top: 420px
+  }
+  .style1,
+  .style2 {
+    color: #00bc2c;
+    margin-left: 270px;
+    margin-top: 2px
+  }
+  .style2 {
+    margin-top: 346px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0,
+  .style1,
+  .style2 {
+    font-family: segoeui,serif;
+    font-size: 13.600000000000001em;
+    height: 259px
+  }
+  .style0 {
+    color: rgba(0,188,44,.6000000238418579);
+    text-decoration: underline solid rgba(0,188,44,.36000002861023006);
+    margin-left: 448px;
+    margin-top: 547px
+  }
+  .style1,
+  .style2 {
+    color: #00bc2c;
+    margin-left: 352px;
+    margin-top: 3px
+  }
+  .style2 {
+    margin-top: 451px
+  }
+}
